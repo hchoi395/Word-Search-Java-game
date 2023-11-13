@@ -1,0 +1,9 @@
+5x5
+h a s d f
+g e y b h
+j k l z x
+c v b l n
+g o o d o
+HELLO
+GOOD
+BYE
